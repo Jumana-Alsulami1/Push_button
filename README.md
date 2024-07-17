@@ -21,3 +21,9 @@ LED:
 Connect the Arduino board to the computer with the USB and upload the code.
 
 Output:
+
+
+https://github.com/user-attachments/assets/61b5ed53-4428-44f3-b8ac-73c59b657200
+
+
+
